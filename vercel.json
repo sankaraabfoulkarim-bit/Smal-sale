@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/%20%20index.html"
+    }
+  ],
+  "cleanUrls": false
+}
